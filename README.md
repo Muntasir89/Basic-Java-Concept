@@ -31,14 +31,14 @@ which extends the super class. When we create object of **class B**
 inside **class SuperMethod** there can be 2 different object based on 
 parameter passed or not and the output will </br>```inside parameterized A```</br>
 ```inside parameterized B``` 
-or</br> 
+or</br> </br>
 ```inside A```</br>
 ```inside B```
 respectively. But if we do not use method ```super(i)``` inside ```class B```
  we will get output</br>
   ```inside A``` </br>
   ```inside parameterized B```
-  or </br>
+  or </br></br>
   ```inside A``` </br>
   ```inside B``` 
   It clears that if we want to execute specific constructor from **super class** we have to initialize **_super_** method inside that constructor that will be 
