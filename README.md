@@ -33,6 +33,7 @@ parameter passed or not and the output will </br>```inside parameterized A```</b
 ```inside parameterized B``` 
 or</br> 
 ```inside A```</br>
+```inside B```
 respectively. But if we do not use method ```super(i)``` inside ```class B```
  we will get output</br>
   ```inside A``` </br>
