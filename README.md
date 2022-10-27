@@ -34,10 +34,10 @@ parameter passed or not and the output will </br>```inside parameterized A```</b
 or</br> 
 ```inside A```</br>
 ```inside B``` </br>
-respectively. But if we do not use method ```super(i)``` inside ```java class B```
+respectively. But if we do not use method ```super(i)``` inside ```class B```
  we will get output</br>
   ```inside A``` </br>
-  ```inside parameterized B```</br>
+  ```inside parameterized B```
   or 
   ```inside A```</br>
   ```inside B``` .</br> 
