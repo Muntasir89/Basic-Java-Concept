@@ -33,13 +33,12 @@ parameter passed or not and the output will </br>```inside parameterized A```</b
 ```inside parameterized B``` 
 or</br> 
 ```inside A```</br>
-```inside B``` </br>
 respectively. But if we do not use method ```super(i)``` inside ```class B```
  we will get output</br>
   ```inside A``` </br>
   ```inside parameterized B```
-  or 
-  ```inside A```</br>
-  ```inside B``` .</br> 
+  or </br>
+  ```inside A``` </br>
+  ```inside B``` 
   It clears that if we want to execute specific constructor from **super class** we have to initialize **_super_** method inside that constructor that will be 
   execute in **class B**. 
